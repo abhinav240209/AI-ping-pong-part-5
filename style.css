@@ -1,0 +1,11 @@
+body
+{
+     background-image:url("background1.jpg");
+}
+
+#canvas {
+   border-style:solid;
+   border-width:2px;
+   border-color:white;
+   border-radius:25px;
+}
